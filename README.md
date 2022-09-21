@@ -5,8 +5,3 @@ using socket,io and nodejs
 
 
 
-do you like it? you can try on 
-
-http://64.227.133.210:5000
-
-just type on your browser 
